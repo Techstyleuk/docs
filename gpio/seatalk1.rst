@@ -20,3 +20,5 @@ GPIO App
 Go into settings (--> Openplotter -->Settings) and ensure that the GPIO App is installed and the latest
 
 In the GPIO App, go to the Seatalk 1 tab and click on "Add SK Connection".  In the dialog box add the required information and then press the "Enable Seatalk 1 reception" button.  Pick the GPIO pin you are using (I was originally using GPIO 25 and later changed to GPIO 4 as the CAN Hat uses 25)
+
+.. image:: img/ST1-1.png
